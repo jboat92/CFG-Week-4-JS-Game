@@ -8,7 +8,7 @@ function favPet(){
         return;
     }
     alert("wrong answer");
-    ask();  
+    favPet();  
 }
 
 favTeam();
@@ -19,7 +19,7 @@ function favTeam(){
         return;
     }
     alert("wrong answer");
-    ask();  
+    favTeam();  
 }
 
 favColor();
@@ -30,7 +30,7 @@ function favColor(){
         return;
     }
     alert("wrong answer");
-    ask();  
+    favColor();  
 }
 
 alert("great, now you know more about me");
