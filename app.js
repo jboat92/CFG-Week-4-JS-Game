@@ -1,4 +1,4 @@
-
+alert("let's play");
 
 favPet();
 function favPet(){
